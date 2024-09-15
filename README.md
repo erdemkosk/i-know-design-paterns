@@ -17,6 +17,9 @@ This project explores a range of design patterns, including but not limited to:
 - **Creational Patterns**: Singleton, Factory Method, Abstract Factory, Builder, Prototype
 - **Structural Patterns**: Adapter, Bridge, Composite, Decorator, Facade, Flyweight, Proxy
 - **Behavioral Patterns**: Chain of Responsibility, Command, Interpreter, Iterator, Mediator, Memento, Observer, State, Strategy, Template Method, Visitor
+- 
+## Example Problems
+1) [Printer Problem](https://github.com/erdemkosk/i-know-design-paterns/blob/master/src/problems/printer/README.md)
 
 ## How to Use
 
